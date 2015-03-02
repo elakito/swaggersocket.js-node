@@ -1,0 +1,26 @@
+{
+  "name": "swaggersocket.js-node",
+  "version": "2.0.0",
+  "homepage": "https://github.com/swagger-api/swagger-socket",
+  "description": "SwaggerSocket client for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elakito/swaggersocket.js-node.git"
+  },
+  "keywords": [
+    "swaggersocket"
+  ],
+  "author": "Aki Yoshida <elakito@gmail.com>",
+  "license": "Apache License, Version 2.0",
+  "bugs": {
+    "url": "https://github.com/swagger-api/swagger-socket/issues"
+  },
+  "dependencies": {
+    "jsdom": "0.8.10",
+    "atmosphere-client": "^2.2.5"
+  }
+}
