@@ -4,6 +4,9 @@ This repository provides [SwaggerSocket](https://github.com/swagger-api/swagger-
 
 ### Install
 
+Note that this module won't be available at npm until swaggerscoket.js
+is finalized for 2.0.0.
+
 ```bash
 npm install swaggersocket-client
 ```
