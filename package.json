@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "jsdom": "0.8.10",
-    "atmosphere-client": "^2.2.5"
+    "atmosphere-client": "^2.2.7"
   }
 }
