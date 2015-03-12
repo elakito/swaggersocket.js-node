@@ -1,5 +1,5 @@
 {
-  "name": "swaggersocket.js-node",
+  "name": "swaggersocket-client",
   "version": "2.0.0",
   "homepage": "https://github.com/swagger-api/swagger-socket",
   "description": "SwaggerSocket client for Node.js",
