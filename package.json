@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "atmosphere-client": "^2.2.7"
-  }
+  },
+  "browser": "./lib/browser.js"
 }
