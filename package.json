@@ -1,6 +1,6 @@
 {
   "name": "swaggersocket-client",
-  "version": "2.0.2",
+  "version": "2.1.1",
   "homepage": "https://github.com/swagger-api/swagger-socket",
   "description": "SwaggerSocket client for Node.js",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "url": "https://github.com/swagger-api/swagger-socket/issues"
   },
   "dependencies": {
-    "atmosphere-client": "^2.2.7"
+    "atmosphere.js": "^2.2.10"
   },
   "browser": "./lib/browser.js"
 }
